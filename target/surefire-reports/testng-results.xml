@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="66559" started-at="2023-02-01T17:28:25 CST" finished-at="2023-02-01T17:29:32 CST">
+    <groups>
+    </groups>
+    <test name="/Users/techglobal/IdeaProjects/testng_second_project_5/src/test/java/scripts/UnitedBaseTest.java" duration-ms="66559" started-at="2023-02-01T17:28:25 CST" finished-at="2023-02-01T17:29:32 CST">
+      <class name="scripts.UnitedBaseTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setup" is-config="true" duration-ms="13264" started-at="2023-02-01T17:28:25 CST" finished-at="2023-02-01T17:28:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setPage" is-config="true" duration-ms="3" started-at="2023-02-01T17:28:39 CST" finished-at="2023-02-01T17:28:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateNavHeaders()[pri:1, instance:scripts.UnitedBaseTest@1bce4f0a]" name="validateNavHeaders" duration-ms="341" started-at="2023-02-01T17:28:39 CST" description="Validate &#039;Main menu&#039; navigation items" finished-at="2023-02-01T17:28:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNavHeaders -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="889" started-at="2023-02-01T17:28:39 CST" finished-at="2023-02-01T17:28:40 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setup" is-config="true" duration-ms="8015" started-at="2023-02-01T17:28:40 CST" finished-at="2023-02-01T17:28:48 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setPage" is-config="true" duration-ms="1" started-at="2023-02-01T17:28:48 CST" finished-at="2023-02-01T17:28:48 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateTravelMenu()[pri:2, instance:scripts.UnitedBaseTest@1bce4f0a]" name="validateTravelMenu" duration-ms="511" started-at="2023-02-01T17:28:48 CST" description="Validate &#039;Book travel menu&#039; navigation items" finished-at="2023-02-01T17:28:48 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTravelMenu -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="844" started-at="2023-02-01T17:28:48 CST" finished-at="2023-02-01T17:28:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setup" is-config="true" duration-ms="7637" started-at="2023-02-01T17:28:49 CST" finished-at="2023-02-01T17:28:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setPage" is-config="true" duration-ms="2" started-at="2023-02-01T17:28:57 CST" finished-at="2023-02-01T17:28:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateRadioButtons()[pri:3, instance:scripts.UnitedBaseTest@1bce4f0a]" name="validateRadioButtons" duration-ms="2056" started-at="2023-02-01T17:28:57 CST" description="Validate &#039;Round-trip&#039; and &#039;One-way&#039; radio buttons" finished-at="2023-02-01T17:28:59 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRadioButtons -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="2950" started-at="2023-02-01T17:28:59 CST" finished-at="2023-02-01T17:29:02 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setup" is-config="true" duration-ms="7655" started-at="2023-02-01T17:29:02 CST" finished-at="2023-02-01T17:29:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setPage" is-config="true" duration-ms="1" started-at="2023-02-01T17:29:09 CST" finished-at="2023-02-01T17:29:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateCheckboxes()[pri:4, instance:scripts.UnitedBaseTest@1bce4f0a]" name="validateCheckboxes" duration-ms="3644" started-at="2023-02-01T17:29:09 CST" description="Validate &#039;Book with miles&#039; and &#039;Flexible dates&#039; checkboxes" finished-at="2023-02-01T17:29:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCheckboxes -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="416" started-at="2023-02-01T17:29:13 CST" finished-at="2023-02-01T17:29:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setup" is-config="true" duration-ms="8032" started-at="2023-02-01T17:29:13 CST" finished-at="2023-02-01T17:29:22 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="setPage" is-config="true" duration-ms="1" started-at="2023-02-01T17:29:22 CST" finished-at="2023-02-01T17:29:22 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateOneWaySearchResults()[pri:5, instance:scripts.UnitedBaseTest@1bce4f0a]" name="validateOneWaySearchResults" duration-ms="9079" started-at="2023-02-01T17:29:22 CST" description="Validate &#039;One-way&#039; flight search results" finished-at="2023-02-01T17:29:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOneWaySearchResults -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.UnitedBaseTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="1171" started-at="2023-02-01T17:29:31 CST" finished-at="2023-02-01T17:29:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.UnitedBaseTest -->
+    </test> <!-- /Users/techglobal/IdeaProjects/testng_second_project_5/src/test/java/scripts/UnitedBaseTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

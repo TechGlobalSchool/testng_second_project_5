@@ -30,4 +30,28 @@ public class UnitedBasePage {
 
     @FindBy(css = "div[class*='checkboxWrapper'] input")
     public List<WebElement> checkboxInputList;
+
+    @FindBy(id = "bookFlightOriginInput")
+    public WebElement travelFromInput;
+
+    @FindBy(id = "bookFlightDestinationInput")
+    public WebElement travelToInput;
+
+    @FindBy(id = "DepartDate")
+    public  WebElement travelDepartureDate;
+
+    @FindBy(css = "div[id='passengerSelector']>button")
+    public WebElement passengerCountButton;
+
+    @FindBy(css = "div[id=passengerSelector] input")
+    public WebElement adultCountInput;
+
+    @FindBy(css = "button[id=cabinType]")
+    public WebElement cabinTypeButton;
+
+    @FindBy(css = "li[id*=cabinType_item]")
+    public List<WebElement> cabinTypeList;
+
+    @FindBy(css = "button[class*=findFlightBtn]")
+    public WebElement findFlightsButton;
 }
